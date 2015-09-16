@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘悲分陀利經
+#+DATE: 2015-08-30 19:33:35.653614
+#+PROPERTY: JUAN 0
